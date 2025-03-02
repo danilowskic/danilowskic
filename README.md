@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Cezary, a passionate software engineer:
+#  Hi there 👋, I'm Cezary, a passionate software engineer
 I love:
 - Σ Mathematics
 - 💻 Software Engineering
@@ -7,9 +7,10 @@ I love:
 - 📚 Reading books
 - ♟️ Chess
 
-Currently learning:
+🌱 Currently learning:
 - Spring framework
-- .NET Framework
+- Angular
+- React
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/KsiążęMgły#6470) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danilowskic) 
