@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Czarek, a passionate software engineer:
 I love:
- Σ Mathematics
-💻 Software Engineering
-🎶 Music
-🌲 Hiking in the forest
-📚 Reading books
+- Σ Mathematics
+- 💻 Software Engineering
+- 🎶 Music
+- 🌲 Hiking in the forest
+- 📚 Reading books
 
 Currently learning:
 - Spring framework
