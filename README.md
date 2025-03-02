@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Czarek, a passionate software engineer:
+# 👋 Hi there, I'm Cezary, a passionate software engineer:
 I love:
 - Σ Mathematics
 - 💻 Software Engineering
