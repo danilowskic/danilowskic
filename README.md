@@ -5,6 +5,7 @@ I love:
 - 🎶 Music
 - 🌲 Hiking in the forest
 - 📚 Reading books
+- ♟️ Chess
 
 Currently learning:
 - Spring framework
