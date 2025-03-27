@@ -2,9 +2,9 @@
 ## I love:
 - Σ Mathematics
 - 💻 Software Engineering
-- 🎶 Music
+- 👻 Horror games
 - 🌲 Hiking in the forest
-- 📚 Reading books
+- 🎶 Music
 - ♟️ Chess
 
 ## 🌱 Currently learning:
