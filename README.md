@@ -61,8 +61,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🎧 What I'm listening?
-<div align="left">
-    ![](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=czaroox&album=1&duration=1&count=3)
-</div>
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=2mrz32xf9xyrt2iuwzcm12hp8?count=3)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
