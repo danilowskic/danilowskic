@@ -62,9 +62,7 @@
 
 ### 🎧 What I'm listening?
 <div align="left">
-    <a href="https://open.spotify.com/user/2mrz32xf9xyrt2iuwzcm12hp8">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=2mrz32xf9xyrt2iuwzcm12hp8&count=3&unique=true" alt="Spotify recently played" />
-    </a>
+    ![](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=czaroox&album=1&duration=1&count=3)
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
